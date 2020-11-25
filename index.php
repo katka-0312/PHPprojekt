@@ -1,6 +1,6 @@
 <?php
 
-$title = "Formulář";
+$title = "Domu";
 include "DBcon.php";
 include "hlavicka.php"
 ?>
